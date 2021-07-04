@@ -1,0 +1,37 @@
+body{
+    font-family: 'Playfair Display', serif;
+    ma
+}
+h1{
+    font-size: 50px;
+}
+.Orange-color{
+    color: rgb(206, 156, 64);
+}
+section{
+    display: flex;
+}
+img{
+    background-image: url(Image/f8cda2a249de1a7851c944ab23cfe03b.jpg);
+}
+body{
+    background-color: palegreen;
+}
+.half-width{
+    width: 50%;
+    padding-left: 30px;
+   
+}
+#half-width {
+        padding-top: 20px;  
+        padding-right: 20px;
+        margin-left: 20px;
+}
+.Link{
+    background-color: orangered;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
